@@ -1,0 +1,6 @@
+geckodriver.log
+images/*
+cards/*
+qrcode/*
+venv/
+utils/driver/*
